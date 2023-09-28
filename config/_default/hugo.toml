@@ -5,7 +5,7 @@ enableGitInfo = true
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
-baseURL = "https://thisisrick.com/"
+baseURL = "thisisrick.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
