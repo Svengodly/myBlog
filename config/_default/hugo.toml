@@ -5,7 +5,7 @@ enableGitInfo = true
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
-baseURL = "https://example.com/"
+baseURL = "https://thisisrick.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -20,7 +20,7 @@ timeout = "180s"
 
 languageCode = "en-us"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [outputFormats.REDIR]
 mediaType = "text/netlify"

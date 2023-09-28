@@ -1,13 +1,13 @@
 ---
-title: Welcome to Hinode!
+title: This is Rick!
 thumbnail:
-    url: /img/sunrise.jpg
+    url: /images/sven1080.png
     author: Harris Vo
     authorURL: https://unsplash.com/@hoanvokim
     origin: https://unsplash.com/photos/ZX6BPboJrYk
     originName: Unsplash
 ---
 
-A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+Soon to be populated with stuff, things, watchamacallits...
 
-{{< button href="https://gethinode.com/docs" icon="fas book-open" order="first" >}}Get Started{{< /button>}}
+<!-- {{< button href="https://gethinode.com/docs" icon="fas book-open" order="first" >}}Get Started{{< /button>}} -->
