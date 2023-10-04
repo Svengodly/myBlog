@@ -38,7 +38,7 @@
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
+    logo = "/images/mysite_logo.png"
     color = "body"
     fixed = true
     offset = "3.8em"
@@ -120,7 +120,7 @@
 # toml-docs-end sections
 
 [favicon]
-    logo = "img/favicon.png"
+    logo = "images/mysite_logo.png"
     sizes = [16, 32, 48]
 
 [style]

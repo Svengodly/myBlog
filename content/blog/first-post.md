@@ -2,6 +2,7 @@
 author: Mark Dumay
 title: First post
 date: 2022-10-01
+draft: true
 description: This is my first blog post.
 tags: ["blog"]
 thumbnail:
