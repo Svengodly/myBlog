@@ -1,7 +1,7 @@
 ---
 title: This is Rick!
 thumbnail:
-    url: /images/sven1080.png
+    url: /images/sven_3-2.png
     author: Harris Vo
     authorURL: https://unsplash.com/@hoanvokim
     origin: https://unsplash.com/photos/ZX6BPboJrYk
