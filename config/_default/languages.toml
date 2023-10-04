@@ -3,7 +3,7 @@
     contentDir = "content"
     weight = 1
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "Home"
     [en.params.social]
         title = "More stuff"
         caption = "Your fellow gamer, geek, and hobbyist."
