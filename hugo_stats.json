@@ -2,7 +2,6 @@
   "htmlElements": {
     "tags": [
       "a",
-      "abbr",
       "body",
       "button",
       "div",
@@ -11,8 +10,6 @@
       "figure",
       "footer",
       "form",
-      "h1",
-      "h2",
       "h3",
       "head",
       "hr",
@@ -28,7 +25,6 @@
       "ol",
       "p",
       "path",
-      "pre",
       "script",
       "small",
       "span",

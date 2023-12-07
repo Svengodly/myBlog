@@ -2,14 +2,13 @@
 author: Rickey Morris 
 title: The Death of a Hard Drive
 date: 2023-12-07T13:01:26-05:00
-draft: true
 # layout: 
 description: Please, back up your data.
 tags: ["blog"]
 # icon: 
 thumbnail: 
     url: images/hdd_fail.png
-    # author: 
+    author: Rickey Morris (Midjourney)
     # authorURL: 
     # origin: 
     # originURL: 
