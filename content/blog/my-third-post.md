@@ -51,11 +51,11 @@ Setting up File History is simple. There are several ways you can navigate to it
 
 1. Type “backup settings” in the search bar located on the left side of the taskbar.
 
-1. Click on “Backup Settings”
+1. Click on “Backup Settings” {{< image src="images/backup_search.png" >}}
 
 1. Click on the “+” button to add a drive which is located under the “Back up using File History” section. This drive is where your backups will be stored.
 
-1. The “Automatically back up my files” option should be toggled to “On” by default. If not, click it to switch it from “Off” to “On.”
+1. The “Automatically back up my files” option should be toggled to “On” by default. If not, click it to switch it from “Off” to “On.” {{< image src="images/backup_config.png" >}}
 
 1. Adjust the frequency, how long you want your backups stored, and what you want backed up by clicking “More Options.”
 
