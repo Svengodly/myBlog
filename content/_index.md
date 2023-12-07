@@ -8,6 +8,6 @@ thumbnail:
     originName: Unsplash
 ---
 
-Soon to be populated with stuff, things, watchamacallits...
+This is a place where I document tidbits of technical information that I come across.
 
 <!-- {{< button href="https://gethinode.com/docs" icon="fas book-open" order="first" >}}Get Started{{< /button>}} -->

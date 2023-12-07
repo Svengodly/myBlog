@@ -3,7 +3,7 @@ author: Rickey Morris
 title: The Death of a Hard Drive
 date: 2023-12-07T13:01:26-05:00
 # layout:
-description: Please, back up your data.
+description: An ounce of prevention is worth a pound of cure.
 tags: ["blog"]
 # icon:
 thumbnail:
