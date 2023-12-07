@@ -19,22 +19,17 @@ Well, it finally happened. My 2TB Hard Disk Drive died on me. It does not show i
 
 {{< alert color="info" >}} March 31st is known as World Backup Day, and it was created in 2011 to raise awareness of the importance of taking measures to prevent data loss.{{< /alert >}}
 
-
 ### Why to Perform Backups
 
 If the above anecdote was not clear, backups need to be performed in preparation for contingencies that could result in a loss of data. This could be a sudden failure of the hard drive, corrupt data, malware, or physical damage. A backup allows you to restore your information in the event that it is lost or compromised.
 
 {{< alert color="info" >}} Corporations may be required by law or policy to retain archives of data for a certain period of time for auditing or various other reasons. The Sarbones-Oxley Act and Health Insurance Portability and Accountability Act are two examples.{{< /alert >}}
 
-
-
 ### What to Backup
 
 To aid in identifying what data would benefit from a backup, there are a couple of questions you can ask yourself. How often does a file or folder change? Is it daily, weekly, or monthly? What are the ramifications if a file or folder is compromised or lost? Are there crucial documents or media that holds a sentimental value? Generally, you want to back up your personal files, which are all usually located in C:\Users\username. Fortunately, Windows 10 has a useful backup tool called File History which includes many of the files and folders that you may want to backup by default. This may take the hassle out of deciding what to backup. There is a plethora of backup tools, but I am going to focus on Window’s File History for now since it is a set it and forget it type deal.
 
 {{< alert color="warning" >}} Ensure that any files that you want backed up are in a folder that you are backing up.{{< /alert >}}
-
-
 
 ### Where should you Backup
 
@@ -49,8 +44,6 @@ There are several factors to take into account when deciding where to backup you
 - Does your backup contain any sensitive files that you don’t want prying eyes to see?
 
 This write-up pertains to backups stored on your own separate storage device. I have my backups on a 12TB External HDD, which is partitioned to separate the backups of the several storage devices that I have in my PC. Unless some natural disaster occurs, which wipes out my PC and backup drive (they are in the same location), I can perform a rapid recovery in the event any of my PC’s storage devices fail. You could also backup your files to the cloud. If you are performing backups for yourself, that could be as simple as using Google Drive or OneDrive. If a more robust solution is desired, however, there are options like rclone, Backblaze, or Duplicacy.
-
-
 
 ### Performing the Backup using Window’s File History
 
