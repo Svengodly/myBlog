@@ -4,6 +4,8 @@ github.com/gethinode/hinode v0.22.5 h1:zpjSDgWQVbq4BjPduxwexQB18gawFeinzPkaRRTs2
 github.com/gethinode/hinode v0.22.5/go.mod h1:hsskrlBRnTbpCjrDtGbK8C1VYGML7ezHtCDGDiYL2mQ=
 github.com/gethinode/hinode v0.23.2 h1:FTTadd/AvROtOwQ0h5NPR+Pc25gPvjlnXM5EdwUuuzk=
 github.com/gethinode/hinode v0.23.2/go.mod h1:jGj5lTBDHl5jRPP+8NEUgRN2xzlLkyy5hB8jVpMBU1w=
+github.com/gethinode/hinode v0.23.3 h1:E3MUBTI2DCSgbZCCb0jmM9rHPgtSwuaB4kLEoIHWAXU=
+github.com/gethinode/hinode v0.23.3/go.mod h1:jGj5lTBDHl5jRPP+8NEUgRN2xzlLkyy5hB8jVpMBU1w=
 github.com/gethinode/mod-bootstrap v1.2.5 h1:h6yAlkMZA34wJU3pLFpLxp1ynEBte/YTY4kGEQtMGPE=
 github.com/gethinode/mod-bootstrap v1.2.5/go.mod h1:CL9IDot6nbXIWJYE/KxfsTdYYEJIGL17BXbAYPn+wVQ=
 github.com/gethinode/mod-flexsearch v1.10.0 h1:ymlHu5G2635D/h2axG4jgpGS+Vvtzxg07SZX8pJOJSo=
