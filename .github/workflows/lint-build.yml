@@ -31,7 +31,7 @@ jobs:
 
     # [24/AUG/23] Adjusted from npm ci to prevent EBADPLATFORM error due to fsevents
     - name: Install npm
-      run: npm i
+      run: npm i --legacy-peer-deps
 
     - name: Lint the source files
       run: npm run lint      
@@ -78,9 +78,9 @@ jobs:
     - name: Perform clean install of npm
       run:  |
         if [ "$RUNNER_OS" == "macOS" ]; then
-          npm ci
+          npm ci --legacy-peer-deps
         else
-          npm i
+          npm i --legacy-peer-deps
         fi
       shell: bash
 
