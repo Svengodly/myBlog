@@ -73,7 +73,7 @@ jobs:
     - name: Perform clean install of npm
       run:  |
         if [ "$RUNNER_OS" == "macOS" ]; then
-          npm ci
+          npm ci --legacy-peer-deps
         else
           npm i --legacy-peer-deps
         fi
