@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "a",
+      "abbr",
       "body",
       "button",
       "div",
@@ -192,6 +193,7 @@
       "navbar",
       "navbar-brand",
       "navbar-collapse",
+      "navbar-container",
       "navbar-expand-md",
       "navbar-fixed-top",
       "navbar-nav",
@@ -229,6 +231,7 @@
       "py-3",
       "py-5",
       "rounded",
+      "rounded-top",
       "row",
       "row-cols-1",
       "row-cols-2",
