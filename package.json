@@ -43,7 +43,7 @@
     "@gethinode/netlify-plugin-dartsass": "^0.3.0",
     "@netlify/plugin-lighthouse": "^6.0.4",
     "autoprefixer": "^10.5.0",
-    "cssnano": "^7.1.7",
+    "cssnano": "^7.1.9",
     "cssnano-preset-advanced": "^7.0.16",
     "eslint": "^10.3.0",
     "eslint-config-standard": "^17.1.0",
