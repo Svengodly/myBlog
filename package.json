@@ -45,7 +45,7 @@
     "autoprefixer": "^10.5.4",
     "cssnano": "^8.0.8",
     "cssnano-preset-advanced": "^8.0.8",
-    "eslint": "^10.9.0",
+    "eslint": "^10.9.1",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-n": "^18.3.0",
