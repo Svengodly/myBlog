@@ -44,7 +44,7 @@
     "@netlify/plugin-lighthouse": "^6.0.4",
     "autoprefixer": "^10.6.1",
     "cssnano": "^9.1.1",
-    "cssnano-preset-advanced": "^9.1.0",
+    "cssnano-preset-advanced": "^9.1.1",
     "eslint": "^10.11.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.32.0",
